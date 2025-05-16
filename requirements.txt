@@ -1,0 +1,7 @@
+streamlit
+scrapy
+playwright
+langchain
+faiss-cpu
+openai
+python-dotenv
